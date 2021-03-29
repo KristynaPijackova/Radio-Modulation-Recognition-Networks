@@ -37,12 +37,23 @@ Note: !wget commands won't work anymore on downloading the dataset as deepsig.ai
 
 ![CNN](https://user-images.githubusercontent.com/49315845/112479656-8bbc5e00-8d75-11eb-9adf-b9d33bb255de.png)
 
+Source: <a id="1">[2]</a> 
 
 ### CLDNN
 
 ![CLDNN](https://user-images.githubusercontent.com/49315845/112479402-4bf57680-8d75-11eb-91de-5b231dff0609.png)
 
+Source: <a id="1">[2]</a>
+
 ## Confusion Matrices 
 
 ![CMs](https://user-images.githubusercontent.com/49315845/112479895-c0c8b080-8d75-11eb-82f3-263b2ce4ebd7.png)
 
+Source: <a id="1">[1]</a>
+
+## References
+<a id="1">[1]</a> 
+K. Pijackova, T. Gotthans, “Radio Modulation Classification Using Deep Learning Architectures,” 2021 31st International Conference Radioelektronika (RADIOELEKTRONIKA), Brno,
+Czech Republic, 2021
+
+<a id="1">[2]</a> K.Pijackova, “Evaluation of CNN and CLDNN architectures on radio modulation datasets,“ 27th Conference STUDENT EEICT 2019. Brno: Vysoké učení technické v Brně, Fakulta elektrotechniky a komunikačních technologií, 2021
