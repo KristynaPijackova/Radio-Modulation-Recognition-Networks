@@ -11,7 +11,7 @@ This notebook contains code for my [bachelor thesis](https://www.vutbr.cz/studen
 
 **Abstract**
 
-*The bachelor thesis is focused on radio modulation classification with a deep learningapproach. There are four deep learning architectures presented in the thesis. Three ofthem use convolutional and recurrent neural networks, and the fourth uses a transformerarchitecture. The final number of parameters of each model was considered during thedesign phase, as it can have a big impact on a memory footprint of a deployed model.The architectures were written in Keras, which is a software library, which provides aPython interface for neural networks. The results of the architectures were additionallycompared to results from other research papers on this topic.*
+*The bachelor thesis is focused on radio modulation classification with a deep learningapproach. There are four deep learning architectures presented in the thesis. Three ofthem use convolutional and recurrent neural networks, and the fourth uses a transformerarchitecture. The final number of parameters of each model was considered during thedesign phase, as it can have a big impact on a memory footprint of a deployed model.The architectures were written in Keras, which is a software library, which provides a Python interface for neural networks. The results of the architectures were additionally compared to results from other research papers on this topic.*
 
 ---
 
@@ -98,4 +98,4 @@ Pijackova, Kristyna, and Tomas Gotthans. "Radio Modulation Classification Using 
 
 <a id="1">[2]</a> Pijackova, Kristýna "Radio  Modulation  Recognition  Networks" Brno: Brno Univer-sity of Technology, Faculty of Electrical Engineering and Communication, Departmentof Radio Electronics, 2021, 61 p.  Bachelor’s Thesis.  Advised by doc.  Ing. Tomas Gotthans, Ph.D, [ONLINE]  https://www.vutbr.cz/studenti/zav-prace/detail/133594
 
-If you end up using some of the architectures, please, consider citing one of the mentioned above works :)
+If you end up using some of the architectures, please, consider citing one of the above mentioned works :)
