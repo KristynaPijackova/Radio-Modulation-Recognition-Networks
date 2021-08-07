@@ -7,7 +7,7 @@
 ---
 
 
-This notebook contains code for my [bachelor thesis](https://www.vutbr.cz/studenti/zav-prace/detail/133594) in the academic year 2020/2021. 
+This notebook contains code for my [bachelor thesis](https://www.vutbr.cz/www_base/zav_prace_soubor_verejne.php?file_id=227140) in the academic year 2020/2021. 
 
 **Abstract**
 
